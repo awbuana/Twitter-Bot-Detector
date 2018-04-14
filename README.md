@@ -5,7 +5,7 @@ Deteksi Bot pada Twitter menggunakan R
 Mendeteksi apakah suatu user bot atau bukan
 
 ## Kontributor
-1. Azmi
+1. Azmi (https://github.com/azminajid)
 2. Maulana Wisnu
 3. Agni Wira Buana
 

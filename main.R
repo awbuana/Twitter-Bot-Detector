@@ -1,7 +1,7 @@
 setwd(c("C:/Users/ASUS/Desktop/Proyek Akhir"))
 load("C:/Users/ASUS/Desktop/Proyek Akhir/data.RData")
 
-# install all packages
+# #install all packages
 install.packages("twitteR")
 install.packages("httpuv")
 install.packages("stringr")

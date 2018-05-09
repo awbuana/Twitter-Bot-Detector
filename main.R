@@ -24,10 +24,10 @@ library(klaR)
 library(FSelector)
 
 #connect to API
-consumer_key <- 'DgfOL8f8eHuh72qnfpUBYbVZe' #put the Consumer Key from Twitter Application
-consumer_secret <- 'm3Hpl2DoFluMw3stO1VpoZXRt55dPvLUheFdbcw9Ruq5pl9HU2'  #put the Consumer Secret from Twitter Application
-access_token <- '267580714-bet5p72otJVntG3l9On38jmUIHKzzHcipBhe6bAF'
-access_token_secret <- 'M9GTsDcqiO2464Ky9iFIRkLC22WrpYGqkBRbjMgOs22gT'
+consumer_key <- '#' #put the Consumer Key from Twitter Application
+consumer_secret <- '#'  #put the Consumer Secret from Twitter Application
+access_token <- '#'
+access_token_secret <- '#'
 setup_twitter_oauth(consumer_key, consumer_secret)
 
 
